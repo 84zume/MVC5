@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "MVC5-Practice",
+            "location": "Japan West"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "MVC5-Practice_db",
+                "serverName": "",
+                "user": "MVCDB",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "Japan West"
+            }
+        ]
+    }
+}
